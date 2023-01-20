@@ -1,0 +1,60 @@
+.App video{
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  margin-right: 0;
+  object-fit: cover;
+
+
+}
+
+
+
+button {
+  font-size: 36px;
+background-color: cyan;
+border-radius: 16px;
+border-color: cyan;
+font-weight: bolder;
+
+   
+
+}
+button {
+  box-shadow: 0 0 5px cyan,
+0 0 25px cyan;
+}
+button:hover{
+  box-shadow: 0 0 5px cyan,
+  0 0 25px cyan, 0 0 50px cyan,
+  0 0 100px cyan, 0 0 200px cyan;
+}
+footer{
+  font-size: 36px;
+  padding: 16px;
+  font-weight: bold;
+  color: beige;
+}
+h1{
+  font-size: 36px;
+  padding: 16px;
+  font-weight: bold;
+  color:beige;
+}
+h2{
+  font-size: 36px;
+  padding: 16px;
+  font-weight: bold;
+  color:beige;
+
+}
+h3{
+  font-size: 36px;
+  padding: 16px;
+  font-weight: bold;
+  color:beige;
+
+}
